@@ -1,0 +1,1 @@
+The data set consists of about 28 columns of anonymous data. Primary goal is to predict a binary output variable based on the 28 columns. The code is built on python with pandas and numpy libraries.
